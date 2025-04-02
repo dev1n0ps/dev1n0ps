@@ -1,2 +1,2 @@
-- 🌱 I’m currently learning everything in and around devops.
-- 👯 Fun fact: I love to sing, run and code. <br/>
+🌱 I eat, drink, sleep and most importantly love DevOps. 
+
