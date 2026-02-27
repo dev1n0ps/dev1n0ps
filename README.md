@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm a Cloud & DevOps Engineer specializing in Azure.☁️
-- I design and build end-to-end, reliable, scalable cloud-native applications on Azure using Java, Spring Boot, Docker, and Kubernetes.🏗️
+- I design and build end-to-end, reliable, scalable cloud-native applications on Azure using Java, Spring Boot, Docker and Kubernetes.🏗️
 - My focus is on infrastructure automation, platform engineering, and AI-driven operational efficiency.🌱
 - Driven by continuous learning and disciplined execution.🚀
 
